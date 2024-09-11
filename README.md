@@ -45,3 +45,6 @@
 <img src="https://raw.githubusercontent.com/JaniceOL/JaniceOL/output/snake.svg" alt="Snake animation" />
 
 ###
+### Snake animation
+
+![Snake animation](https://github.com/JaniceOL/JaniceOL/blob/output/snake.svg)
