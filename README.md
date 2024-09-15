@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Janice Oliveira and I'm a Front-end Developer, from Portugal.</h2>
+
 
 ###
 
